@@ -41,6 +41,7 @@ document.addEventListener('keyup', function(e){
     }
 });
 
+
 let acessarIndex = id('button');
 
 acessarIndex.addEventListener('click', entrar, false);
