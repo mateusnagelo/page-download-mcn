@@ -37,6 +37,7 @@
   /* Hero styles */
   
   .hero {
+    
     background: linear-gradient(
         rgba(255, 255, 255, 0.705),
         rgba(255, 255, 255, 0.301)
@@ -133,4 +134,7 @@
 footer{
     color: #6c5ce7;
     font-size: 23px;
+}
+div.hero-body{
+    background-color: #6c5ce7;
 }
