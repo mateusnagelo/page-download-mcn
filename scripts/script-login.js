@@ -2,7 +2,7 @@
 function entrar(e) {
 
     const email = 'mateusangelo@hotmail.com';
-    const password = '0';
+    const password = '1';
 
     const id = (elem) => {
        return document.getElementById(elem);
@@ -37,7 +37,10 @@ function entrar(e) {
 
 document.addEventListener('keypress', function(e){
     if(e.key == 'Enter'){
-        return entrar();
+       
+        const btn = document.querySelector("#button");
+
+        btn.click();
     }
 });
 
