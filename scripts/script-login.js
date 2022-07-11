@@ -1,8 +1,8 @@
 
 function entrar(e) {
 
-    const email = 'mateusangelo@hotmail.com';
-    const password = '1';
+    const email = 'suporte';
+    const password = 'supp2468';
 
     const id = (elem) => {
        return document.getElementById(elem);
