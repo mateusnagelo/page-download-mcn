@@ -75,9 +75,9 @@ hr.login-hr{
     
 }
 .olho {
-    margin-top: -10rem; 
+    margin-top: 5%; 
     width: 20px;
-    left: 62%;
+    left: 92%;
     position: absolute;
     cursor: pointer;
 }
