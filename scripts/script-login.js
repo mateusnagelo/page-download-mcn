@@ -18,7 +18,7 @@ function entrar(e) {
         id('password').style.borderBottom = '1px solid #FF0000';
         return e.preventDefault();
     }else if(validEmail !== email && validPassword === password){
-        alert('E-mail incorreto!')
+        alert('E-mail ou usuario incorreto!')
         id('email').style.borderBottom = '1px solid #FF0000';
         return e.preventDefault();
     }
