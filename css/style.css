@@ -74,3 +74,10 @@ hr.login-hr{
     display: flex;
     
 }
+.olho {
+    margin-top: -10rem; 
+    width: 20px;
+    left: 62%;
+    position: absolute;
+    cursor: pointer;
+}
