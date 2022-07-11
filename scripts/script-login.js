@@ -62,8 +62,6 @@ acessarIndex.addEventListener('click', entrar, false);
 
 
 
-
-
 // function entrar(e) {
 
 //     const email = 'mateusangelo@hotmail.com';
